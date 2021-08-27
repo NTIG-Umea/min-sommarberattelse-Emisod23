@@ -1,0 +1,17 @@
+main {
+    width: 70%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    width: fit-content;
+    margin-inline: auto;
+}
+
+a {
+    vertical-align: text-bottom;
+}
